@@ -8,7 +8,8 @@ This is a scrapy project that crawl some information from AOV Main Website Indon
 ### How to run a crawler
 - Heroes : ```scrapy crawl heroes```
 - Items : ```scrapy crawl items``` 
-- Arcana : ```scrapy crawl arcana```
+- Arcanas : ```scrapy crawl arcanas```
+- Talents : ```scrapy crawl talents```
 
 ### Contribute:
 You can contribute literally anything. Whether a new crawler or some small optimisations. Just do a PR and make this project grow.

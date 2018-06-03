@@ -3,8 +3,8 @@ import scrapy
 from scrapy import Selector
 
 
-class ArcanaSpider(scrapy.Spider):
-    name = 'arcana'
+class ArcanasSpider(scrapy.Spider):
+    name = 'arcanas'
     start_urls = ['http://aov.garena.co.id/main/game/arcana/']
 
     def parse(self, response):
